@@ -42,7 +42,7 @@ const About = () => {
           <div className="relative">
             <div className="relative overflow-hidden rounded-2xl">
               <img 
-                src="/src/images/foto.png"
+                src="/images/foto.png"
                 alt="Denis preparando bebidas tradicionales"
                 className="w-full h-[600px] object-cover"
               />
